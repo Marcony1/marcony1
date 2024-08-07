@@ -30,6 +30,14 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&link=https%3A%2F%2Fwww.r-project.org%2F)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&link=https%3A%2F%2Fwww.cprogramming.com%2F)
+![Mosel](https://img.shields.io/badge/Mosel-3776AB?style=for-the-badge&logo=fico&logoColor=white&link=https%3A%2F%2Fwww.fico.com%2Ffico-xpress-optimization%2Fdocs%2Flatest%2Fmosel%2Fmosel_lang%2Fdhtml%2Fmoselreflang.html)
+![VBA](https://img.shields.io/badge/Visual%20Basic-gray?style=for-the-badge&logo=visual%20basic&logoColor=white&label=VBA&link=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Foffice%2Fvba%2Fapi%2Foverview%2F)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white&link=https%3A%2F%2Fwww.latex-project.org%2F)
+
+### Backend Development
+
+
 
 
 
