@@ -107,3 +107,9 @@
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcony1&show_icons=true&locale=en&layout=compact" alt="marcony1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcony1&show_icons=true&locale=en" alt="marcony1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcony1&" alt="marcony1" /></p>
