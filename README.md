@@ -25,11 +25,11 @@
   </a>
 </p>
 
-<h3 align="left">Skills:</h3>
+🚀 <h3 align="left">Skills:</h3>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F">
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&link=https%3A%2F%2Fwww.r-project.org%2F)
 
 
 
