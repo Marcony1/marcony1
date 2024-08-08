@@ -111,5 +111,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcony1&show_icons=true&locale=en&layout=compact" alt="marcony1" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcony1&show_icons=true&locale=en&hide_rank=true" alt="marcony1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcony1&" alt="marcony1" /></p>
