@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 <p align="center">
-  <div style="display: inline-block; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
-    <img alt="Profile" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg" width="200"/>
-  </div>
+  <img align="center" alt="Profile" width="200" style="border-radius: 50%;" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
 <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
 
