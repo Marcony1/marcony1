@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
-<img align="center" alt="Profile" width="200" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg">
+<p align="center"> <img align="center" alt="Profile" width="200" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/></p>
 <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
 
 <p align="center">
