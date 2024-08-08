@@ -17,11 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/marco-bravom/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:50px" />
   <a href="https://marcony1.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&amp;logo=proto.io&amp;logoColor=white" style="height:25px" /></a>
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&amp;logo=proto.io&amp;logoColor=white" style="height:50px" /></a>
   <a href="https://marcony1.github.io/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&amp;logo=readme&amp;logoColor=white" style="height:25px" /></a>
+    <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&amp;logo=readme&amp;logoColor=white" style="height:50px" /></a>
 </p>
 
 
