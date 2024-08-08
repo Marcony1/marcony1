@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
 <p align="center">
-  <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
-    <img alt="Profile" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg" style="width: 100%; height: 100%; object-fit: cover;"/>
-  </span>
+  <img alt="Profile" width="200" style="border-radius: 50%" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
 
 
@@ -14,7 +12,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=marcony1&theme=onedark" alt="marcony1" />
 </p>
 
-
+<span class="image-rounded" style="background: https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg no-repeat 0 0;">
+	<img src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg" />
+</span>
 
 
 
