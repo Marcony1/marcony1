@@ -4,6 +4,13 @@
   <img class="rounded-circle shadow-4-strong" alt="Profile" width="200" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
 
+img[src$="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+
 <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
 
 <p align="center">
