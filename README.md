@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
 <p align="center">
-  <img alt="Profile" width="200" style="border-radius: 50%" shape="circle" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
+  <img alt="Profile" width="200" style="border-radius: 50%" shape="circle" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile_zoom.jpg"/>
 </p>
 
 
