@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
 <p align="center">
-  <img alt="Profile" width="200" style="border-radius: 50%" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
+  <img alt="Profile" width="200" style="border-radius: 50%" shape="circle" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
-![alt prof pic](https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg?raw=true)
-
 
 
 <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
