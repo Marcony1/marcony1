@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
-<p align="center">
-  <img alt="Profile" width="200" style="border-radius: 50%" shape="circle" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile_zoom.jpg"/>
+<p align="left" style="display: flex; align-items: center;">
+  <img alt="Profile" width="200" style="border-radius: 50%; margin-right: 20px;" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile_zoom.jpg"/>
+  <span>
+    <h3>A Data Scientist and Aspiring Actuary</h3>
+    <p>Hi there! I'm Marco Bravo, a Data Scientist and Actuarial Consultant with a knack for solving complex problems. I've passed three <a href="https://www.soa.org/">SOA</a> exams and have hands-on experience in banking, regulatory practices, predictive modeling, data visualization, and financial markets.</p>
+    <p>I've had the chance to wear a few different hats: from being a state co-delegate in the <a href="https://www.ommenlinea.org/">Mexican Mathematical Olympiad</a> to teaching actuarial sciences at <a href="https://www.udlap.mx/web/en/">Universidad de las Américas Puebla</a>. I love making intricate topics easy to understand and communicating key insights to those who need them.</p>
+    <p>Having lived and worked in diverse and multicultural settings, I've developed a broad perspective that enhances my approach. I'm fluent in Spanish, English, and French, and I have a basic grasp of German. Feel free to connect with me and let's explore new ideas together!</p>
+  </span>
 </p>
-
-
-<h3 align="center">A Data Scientist and Aspiring Actuary</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcony1&theme=onedark" alt="marcony1" />
 </p>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +25,7 @@
 </p>
 
 
-
-<h3 align="left">🚀 My Skills:</h3>
+## 🚀 My Skills
 
 ### 📋 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org%2F)
