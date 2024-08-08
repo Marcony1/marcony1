@@ -3,6 +3,7 @@
 <p align="center">
   <img alt="Profile" width="200" style="border-radius: 50%" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
+![alt prof pic](https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg)
 
 
 
@@ -11,10 +12,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcony1&theme=onedark" alt="marcony1" />
 </p>
-
-<span class="image-rounded" style="background: https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg no-repeat 0 0;">
-	<img src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg" />
-</span>
 
 
 
