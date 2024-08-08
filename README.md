@@ -9,10 +9,10 @@
     <td>
       <div style="max-width: 600px; text-align: justify;">
 <p style="text-align: justify;">
-  Hi! I’m Marco Bravo, a Data Scientist and Actuarial Consultant with three <a href="https://www.soa.org/" target="_blank">SOA</a> exams under my belt. I’ve been deep into banking, regulatory practices, predictive modeling, data visualization, and more. Basically, I love tackling complex problems and finding smart solutions.
+  Hi! I’m Marco Bravo, a Data Scientist and Actuarial Consultant with three <a href="https://www.soa.org/" target="_blank">SOA</a> exams under my belt. I’ve been deep into banking, regulatory practices, predictive modeling, data visualization, and more. I love tackling complex problems and finding data-driven solutions.
 </p>
 <p style="text-align: justify;">
-  I’ve also had some cool experiences, like being a state co-delegate in the <a href="https://www.ommenlinea.org/" target="_blank">Mexican Mathematical Olympiad</a> and teaching actuarial science at <a href="https://www.udlap.mx/web/en/" target="_blank">Universidad de las Américas Puebla</a>. I’m passionate about breaking down complex topics and making them accessible. Plus, my technical communication skills help me share important insights with everyone involved in my projects.
+  I’ve also had some cool experiences, like being a state co-delegate in the <a href="https://www.ommenlinea.org/" target="_blank">Mexican Mathematical Olympiad</a> and teaching actuarial science students at <a href="https://www.udlap.mx/web/en/" target="_blank">Universidad de las Américas Puebla</a>. I’m passionate about breaking down complex topics and making them accessible.
 </p>
 <p style="text-align: justify;">
   I’ve grown up in diverse, multicultural environments, which has really broadened my perspective. I speak Spanish, English, and French fluently, and I have a basic grasp of German. Always eager to learn more!
@@ -21,7 +21,6 @@
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcony1&theme=onedark" alt="marcony1" />
