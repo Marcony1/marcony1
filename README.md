@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
 <p align="center">
-  <img alt="Profile" width="200" style="border: 2px solid  gray; border-radius:15px" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
+  <img alt="Profile" width="200" style="border-radius:50%"="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
 
 <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
