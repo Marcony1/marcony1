@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
-<p align="left" style="display: flex; align-items: center;">
-  <img alt="Profile" width="200" style="border-radius: 50%; margin-right: 20px;" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile_zoom.jpg"/>
-  <span>
-    <h3>A Data Scientist and Aspiring Actuary</h3>
-    <p>Hi there! I'm Marco Bravo, a Data Scientist and Actuarial Consultant with a knack for solving complex problems. I've passed three <a href="https://www.soa.org/">SOA</a> exams and have hands-on experience in banking, regulatory practices, predictive modeling, data visualization, and financial markets.</p>
-    <p>I've had the chance to wear a few different hats: from being a state co-delegate in the <a href="https://www.ommenlinea.org/">Mexican Mathematical Olympiad</a> to teaching actuarial sciences at <a href="https://www.udlap.mx/web/en/">Universidad de las Américas Puebla</a>. I love making intricate topics easy to understand and communicating key insights to those who need them.</p>
-    <p>Having lived and worked in diverse and multicultural settings, I've developed a broad perspective that enhances my approach. I'm fluent in Spanish, English, and French, and I have a basic grasp of German. Feel free to connect with me and let's explore new ideas together!</p>
-  </span>
-</p>
+<table>
+  <tr>
+    <td>
+      <img alt="Profile" width="200" style="border-radius: 50%;" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile_zoom.jpg"/>
+      <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
+    </td>
+    <td>
+      <div style="max-width: 600px; text-align: justify;">
+        Marco Bravo is a Data Scientist and Actuarial Consultant with three [SOA](https://www.soa.org/) exams passed. With extensive experience in banking, regulatory practices, predictive modeling, data visualization, reproducibility, mining, and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems.<br><br>
+        Having served as a state co-delegate in the [Mexican Mathematical Olympiad](https://www.ommenlinea.org/) and having lectured actuarial sciences undergraduate students at [Universidad de las Américas Puebla](https://www.udlap.mx/web/en/), Marco has cultivated a passion for making high-level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes.<br><br>
+        Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English, and French with a foundational understanding of German.
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcony1&theme=onedark" alt="marcony1" />
