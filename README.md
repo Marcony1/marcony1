@@ -4,7 +4,7 @@
   <tr>
     <td>
       <img alt="Profile" width="200" style="border-radius: 50%;" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile_zoom.jpg"/>
-      <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
+      <h3 align="center">Data Scientist and Aspiring Actuary</h3>
     </td>
     <td>
       <div style="max-width: 600px; text-align: justify;">
