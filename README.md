@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco Bravo</h1>
 
-<style>
-  img.rounded {
-    border-radius: 50%;
-  }
-</style>
-
 <p align="center">
-  <img class="rounded" alt="Profile" width="200" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
+  <img alt="Profile" width="200" style="border-radius: 50%;" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
-
 
 <h3 align="center">A Data Scientist and Aspiring Actuary</h3>
 
