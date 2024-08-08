@@ -8,9 +8,15 @@
     </td>
     <td>
       <div style="max-width: 600px; text-align: justify;">
-        Marco Bravo is a Data Scientist and Actuarial Consultant with three <a href="https://www.soa.org/" target="_blank">SOA</a> exams passed. With extensive experience in banking, regulatory practices, predictive modeling, data visualization, reproducibility, mining, and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems.<br><br>
-        Having served as a state co-delegate in the <a href="https://www.ommenlinea.org/" target="_blank">Mexican Mathematical Olympiad</a> and having lectured actuarial sciences undergraduate students at <a href="https://www.udlap.mx/web/en/" target="_blank">Universidad de las Américas Puebla</a>, Marco has cultivated a passion for making high-level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes.<br><br>
-        Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English, and French with a foundational understanding of German.
+<p style="text-align: justify;">
+  Hi! I’m Marco Bravo, a Data Scientist and Actuarial Consultant with three <a href="https://www.soa.org/" target="_blank">SOA</a> exams under my belt. I’ve been deep into banking, regulatory practices, predictive modeling, data visualization, and more. Basically, I love tackling complex problems and finding smart solutions.
+</p>
+<p style="text-align: justify;">
+  I’ve also had some cool experiences, like being a state co-delegate in the <a href="https://www.ommenlinea.org/" target="_blank">Mexican Mathematical Olympiad</a> and teaching actuarial science at <a href="https://www.udlap.mx/web/en/" target="_blank">Universidad de las Américas Puebla</a>. I’m passionate about breaking down complex topics and making them accessible. Plus, my technical communication skills help me share important insights with everyone involved in my projects.
+</p>
+<p style="text-align: justify;">
+  I’ve grown up in diverse, multicultural environments, which has really broadened my perspective. I speak Spanish, English, and French fluently, and I have a basic grasp of German. Always eager to learn more!
+</p>
       </div>
     </td>
   </tr>
