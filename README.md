@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Profile" width="200" style="border-radius: 50%" src="https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg"/>
 </p>
-![alt prof pic](https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg)
+![alt prof pic](https://github.com/Marcony1/marcony1.github.io/blob/main/images/profile.jpg?raw=true)
 
 
 
